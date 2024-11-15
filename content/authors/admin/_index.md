@@ -71,20 +71,20 @@ awards:
   - title: Gemma-Scope Academic Grant Program
     date: '2023-10-16'
     awarder: Google Deepmind
-    icon: deepmind.jpg
+    icon: deepmind
     summary: |
       I was awarded a compute grant of $10.000 for my proposal 'Automated Evaluation of Sparse Autoencoders for Interpretable AI'
   - title: OpenAI Superalignment Grant
     url: https://eng.ox.ac.uk/news/oxford-engineers-secure-prestigious-openai-grant-for-ai-research/#:~:text=The%20grants%2C%20ranging%20from%20%24100,safety%20of%20superhuman%20AI%20systems.
     date: '2024-04-10'
     awarder: OpenAI
-    icon: openai.jpg
+    icon: openai
     summary: |
       Together with Professor Philip Torr, Professor Anisoara Calinescu, and Dr. Christian Schroeder de Witt, I was awarded a grant of $327.000 for my proposal 'Utilizing Latent Representations to Quantify Learnability in the Weak-to-Strong Generalization Framework'
   - title: Process and Data Science Excellence Award
     date: '2022-09-04'
     awarder: Process and Data Science Group - RWTH Aachen
-    icon: pads.jpg
+    icon: pads
     summary: |
       Awarded for being in the top 5% of students at the Process and Data Science Chair
 ---
