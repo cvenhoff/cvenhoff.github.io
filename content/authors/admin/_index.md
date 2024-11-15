@@ -51,7 +51,6 @@ education:
   - area: PhD Artificial Intelligence
     institution: University of Oxford, Worcester College
     date_start: 2024-10-07
-    date_end: Present
     summary: |
       Advisor: Professor Philip Torr, Dr. Christian Schroeder de Witt
   - area: MSc Advanced Computer Science
