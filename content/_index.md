@@ -18,7 +18,12 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: gray
+  - block: resume-awards
+    id: awards
+    content:
+      title: Awards
+      username: admin
   - block: collection
     id: papers
     content:
